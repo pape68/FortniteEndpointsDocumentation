@@ -69,7 +69,7 @@
   - [Save the World](/Fortnite/SaveTheWorld)
     - [Missions](/Fortnite/SaveTheWorld/Missions.md)
     - [Validate Missions](/Fortnite/SaveTheWorld/MissionsValidate.md)
-  - [Server Status](/Fortnite/ServerStatus)
+  - [Server Status](/Fortnite/ServerStatus
     - [Status](/Fortnite/ServerStatus/ServerStatus.md)
     - [Status (BULK)](/Fortnite/ServerStatus/ServerStatusBulk.md)
   - [Stats](/Fortnite/Stats)
